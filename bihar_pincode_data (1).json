@@ -1,0 +1,19 @@
+{
+  "Patna": {
+    "Patna Sadar": {
+      "Gandhi Maidan": "800001",
+      "Kankarbagh": "800020",
+      "Rajendra Nagar": "800016"
+    },
+    "Barh": {
+      "Barh Town": "803213",
+      "Rampur": "803214"
+    }
+  },
+  "Gaya": {
+    "Gaya Sadar": {
+      "Civil Lines": "823001",
+      "Tekari": "824236"
+    }
+  }
+}
