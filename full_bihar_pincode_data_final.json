@@ -1,0 +1,44 @@
+{
+  "Patna": {
+    "Phulwari Sharif": {
+      "Danapur Cantt": "801503",
+      "Phulwari Bazar": "801505"
+    },
+    "Barh": {
+      "Athmalgola": "803211",
+      "Barh Bazar": "803213"
+    }
+  },
+  "Gaya": {
+    "Tekari": {
+      "Tekari": "824236",
+      "Chakand": "824203"
+    },
+    "Bodh Gaya": {
+      "Sujata Bypass": "824231",
+      "Kalchakra Ground": "824234"
+    }
+  },
+  "Muzaffarpur": {
+    "Bochaha": {
+      "Majhauli": "843121",
+      "Bochaha Bazar": "843103"
+    },
+    "Sakra": {
+      "Rampur Bakhri": "843105",
+      "Sakra Chowk": "843106"
+    }
+  },
+  "Darbhanga": {
+    "Laheriasarai": {
+      "Bahadurpur": "846003",
+      "Chowk Bazar": "846001"
+    }
+  },
+  "Purnia": {
+    "Banmankhi": {
+      "Sarsi": "854303",
+      "Banmankhi Bazar": "854301"
+    }
+  }
+}
